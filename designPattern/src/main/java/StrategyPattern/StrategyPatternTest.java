@@ -16,5 +16,6 @@ public class StrategyPatternTest {
 		System.out.println(obj.toString());
 		System.out.println("添加dev分支测试！！！！！！！！！！！！");
 		System.out.println("添加dev分支测试111！！！！！！！！！！！！");
+		System.out.println("添加dev分支合并！！！！！！！！！！！！！！！！！！！！");
 	}
 }
