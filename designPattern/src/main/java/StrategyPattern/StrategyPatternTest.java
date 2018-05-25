@@ -17,5 +17,6 @@ public class StrategyPatternTest {
 		System.out.println("添加dealWith分支！！！！！！！！！");
 		System.out.println("添加dev分支测试！！！！！！！！！！！！");
 		System.out.println("添加dev分支测试111！！！！！！！！！！！！");
+		System.out.println("添加dev分支合并！！！！！！！！！！！！！！！！！！！！");
 	}
 }
