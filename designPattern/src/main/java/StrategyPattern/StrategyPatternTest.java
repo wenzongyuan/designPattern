@@ -14,5 +14,6 @@ public class StrategyPatternTest {
 		strategyContext=new StrategyContext(backDoorImpl);
 		Object obj = strategyContext.operator("sfsdf");
 		System.out.println(obj.toString());
+		System.out.println("添加dev分支测试！！！！！！！！！！！！");
 	}
 }
