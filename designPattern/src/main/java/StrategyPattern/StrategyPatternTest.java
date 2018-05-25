@@ -15,5 +15,7 @@ public class StrategyPatternTest {
 		Object obj = strategyContext.operator("sfsdf");
 		System.out.println(obj.toString());
 		System.out.println("添加dealWith分支！！！！！！！！！");
+		System.out.println("添加dev分支测试！！！！！！！！！！！！");
+		System.out.println("添加dev分支测试111！！！！！！！！！！！！");
 	}
 }
